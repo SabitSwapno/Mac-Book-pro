@@ -1,0 +1,16 @@
+.custom-font-color{
+    color: rgb(85, 83, 83);
+}
+.outline-border-custom{
+    border: 1px solid rgb(85, 83, 83);
+}
+.outline-border-custom:hover{
+    background-color: rgb(85, 83, 83);
+    color: white;
+}
+.resized-hr{
+    margin: 0;
+}
+#total-price-hr{
+    opacity: 1;
+}
